@@ -1,5 +1,5 @@
 var React = require('react');
-var ReactDOM = require('react-dom');//react-domをインポート
+var ReactDOM = require('react-dom');
 var Header = require('./header.jsx');
 var Body = require('./body.jsx');
 var Footer = require('./footer.jsx');
